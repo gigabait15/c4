@@ -69,7 +69,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/gigabait15/c4.git)
 cd C4Test
 ```
 
